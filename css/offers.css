@@ -15,11 +15,13 @@
     background-color: transparent;
     position: static;
     padding: 0;
+    margin-bottom: 24px;
 }
 
 .card header p {
     font-size: 20px;
     font-weight: var(--text-weight);
+    
 }
 
 .card header h3 {
