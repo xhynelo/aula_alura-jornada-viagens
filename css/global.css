@@ -54,7 +54,7 @@ body {
   font-size: 20px;
   font-weight: var(--title-weight);
   background-color: var(--secondary-color);
-  display: block;
+  display: inline-block;
   line-height: 64px;
   border-radius: 8px;
   text-decoration: none;
